@@ -10,7 +10,7 @@ _a little more about me..._
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m open to work
 - 💬 Ask me about coding, movie, football
-- 📫 How to reach me: ojesanmioyinlade@gmail.com
+- 📫 Reach me on ojesanmioyinlade@gmail.com
 - 😄 Pronouns: She, her
 
 
