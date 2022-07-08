@@ -14,9 +14,7 @@ const oyinladeOjesanmi = {
   code: [JavaScript, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI],
   askMeAbout: [Football, Movies, Radio shows],
   challenge: "I am honing my Javascript skills and picking up React",
-  funFacts: ['I have years of remote work experience with devs 
-  from all over the world', 
-  'I talk to thousands of people at a time'],
+  funFacts: ['I talk to thousands of people at a time'],
   reachMe: 'ojesanmioyinlade@gmail.com'
 }
 ```
