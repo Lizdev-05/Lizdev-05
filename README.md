@@ -8,7 +8,7 @@ _a little more about me..._
 - 🔭 I’m currently working with Javascript, React Js, Ruby on Rails
 - 🌱 I’m currently learning on Microverse
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m open to work
+- 🤔 I’m open to work and new opportunities
 - 💬 Ask me about coding, movie, football
 - 📫 Reach me on ojesanmioyinlade@gmail.com
 - 😄 Pronouns: She, her
