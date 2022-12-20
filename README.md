@@ -35,7 +35,7 @@ const oyinladeOjesanmi = {
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
 <a target="_blank"
-href="https://www.linkedin.com/in/elizabeth-oyinlade-ojesanmi-0702aa16a"><img
+href="https://www.linkedin.com/in/oyinlade-ojesanmi/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="https://lizdev.hashnode.dev/"><img
 src="https://img.shields.io/badge/-Hasnode-D14836?style=for-the-badge&logo=Hashnodel&logoColor=white"></img></a> <a target="_blank"
