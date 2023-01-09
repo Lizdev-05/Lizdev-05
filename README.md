@@ -24,14 +24,10 @@ const oyinladeOjesanmi = {
 | <a href="https://github.com/Lizdev-05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Lizdev-05&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Oyinlade's github stats" /></a> | <a href="https://github.com/Liz-05/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lizdev-05&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lizdev-05&theme=radical" alt="Lizdev-05" /></p>
-
 
 ---
-
-### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
-
-[![Lizdev](https://github-readme-stats.vercel.app/api/wakatime?username=Lizdev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+| <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lizdev-05&theme=radical" alt="Lizdev-05" /></span> | ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40"> [![Lizdev](https://github-readme-stats.vercel.app/api/wakatime?username=Lizdev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)|
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ---
   
