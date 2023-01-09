@@ -25,6 +25,15 @@ const oyinladeOjesanmi = {
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lizdev-05&theme=radical" alt="Lizdev-05" /></p>
+
+
+---
+
+### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
+
+[![Lizdev](https://github-readme-stats.vercel.app/api/wakatime?username=Lizdev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
   
 <p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
 
